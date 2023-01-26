@@ -52,7 +52,7 @@ nav a:hover{
 main{
     position: relative;
     max-width: 1000px;
-    min-width: 900px;
+    min-width: none;
     margin: 150px auto 90px auto;
     min-height: 830px;
     padding: 30px;
